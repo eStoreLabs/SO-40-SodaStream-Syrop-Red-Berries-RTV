@@ -379,8 +379,9 @@
   margin: 0;
   padding: 40px 10px;
   padding-bottom: 0;
-  margin-top: 30px;
   line-height: 1.2;
+  margin-top: 0;
+  padding-top: 0;
 }
 #es-sodastream.es-sodastream .es-slider__title span {
   font-size: 35px;
