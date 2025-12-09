@@ -395,7 +395,6 @@
   justify-content: space-around;
   align-items: center;
   flex-wrap: wrap;
-  padding-bottom: 40px;
 }
 #es-sodastream.es-sodastream .es-slider__slide {
   display: flex;
@@ -1052,9 +1051,7 @@
     max-width: 350px;
   }
   #es-sodastream.es-sodastream .es-kv__packshot {
-    max-height: none;
     height: auto;
-    width: 680px;
     margin-bottom: -80px;
     margin-left: 0px;
   }
