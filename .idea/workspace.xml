@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41e54fa1-35d4-49f8-ba18-ce7ef6ada76a" name="Changes" comment="Convert .png to .webp" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;esl-slawek&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:eStoreLabs/SO-40-SodaStream-Syrop-Red-Berries-RTV.git&quot;,
+    &quot;accountId&quot;: &quot;b44c3362-b233-460b-b7ab-18e63867966b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="371N8wayfe4nERlLEWSOcVmoxyi" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/viataranushenko/Public/My Files/Workflow/Rich Contents/SO-40-SodaStream-Syrop-Marakuja-RTV&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41e54fa1-35d4-49f8-ba18-ce7ef6ada76a" name="Changes" comment="" />
+      <created>1766066461080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766066461080</updated>
+      <workItem from="1766066462184" duration="1723000" />
+      <workItem from="1766069438949" duration="241000" />
+    </task>
+    <task id="LOCAL-00001" summary="New css">
+      <option name="closed" value="true" />
+      <created>1766066866991</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1766066866991</updated>
+    </task>
+    <task id="LOCAL-00002" summary="New css changes">
+      <option name="closed" value="true" />
+      <created>1766066882975</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1766066882975</updated>
+    </task>
+    <task id="LOCAL-00003" summary="New css changes">
+      <option name="closed" value="true" />
+      <created>1766067803516</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1766067803516</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Remove extra tag">
+      <option name="closed" value="true" />
+      <created>1766067827193</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1766067827193</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add alt attributes">
+      <option name="closed" value="true" />
+      <created>1766068100857</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1766068100857</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Convert .png to .webp">
+      <option name="closed" value="true" />
+      <created>1766069670572</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1766069670572</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New css" />
+    <MESSAGE value="New css changes" />
+    <MESSAGE value="Remove extra tag" />
+    <MESSAGE value="Add alt attributes" />
+    <MESSAGE value="Convert .png to .webp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Convert .png to .webp" />
+  </component>
+</project>
